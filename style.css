@@ -11,6 +11,12 @@
     justify-content: center;
     flex-direction: column;
     row-gap: 80px;
+    background-color: hsla(240, 100%, 50%, 0.7);
+}
+
+.container > div {
+    color: #ffffff;
+    font-size: 22px;
 }
 
 
