@@ -2,21 +2,25 @@
     box-sizing: border-box;
 }
 
-.container {
+nav {
     height: 400px;
     width: 800px;
+    margin: auto;
+}
+
+.container {
     display: flex;
     border: 2px dashed hsl(43, 74%, 49%);
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    row-gap: 80px;
     background-color: hsla(240, 100%, 50%, 0.7);
 }
 
 .container > div {
     color: #ffffff;
     font-size: 22px;
+    padding: 5%;
 }
 
 
