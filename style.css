@@ -9,11 +9,7 @@ nav {
 }
 
 .container {
-    display: flex;
     border: 2px dashed hsl(43, 74%, 49%);
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
     background-color: hsla(240, 100%, 50%, 0.7);
 }
 
