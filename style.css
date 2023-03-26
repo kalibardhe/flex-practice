@@ -16,7 +16,14 @@ nav {
 .container > div {
     color: #ffffff;
     font-size: 22px;
-    padding: 5%;
+    padding: 50px;
 }
 
+.first {
+    border-bottom: 3px solid #000000;
+}
+
+.second {
+    border-bottom: 3px solid #000000;
+}
 
