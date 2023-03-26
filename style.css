@@ -9,7 +9,7 @@ nav {
 }
 
 .container {
-    border: 2px dashed hsl(43, 74%, 49%);
+    border: 5px solid hsl(43, 74%, 49%);
     background-color: hsla(240, 100%, 50%, 0.7);
 }
 
