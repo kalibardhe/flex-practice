@@ -29,11 +29,11 @@ body {
 }
 
 .first {
-    border-bottom: 3px solid #000000;
+    /*border-bottom: 3px solid #000000;*/
 }
 
 .second {
-    border-bottom: 3px solid #000000;
+    /*border-bottom: 3px solid #000000;*/
     background-color: #474747;
 }
 
