@@ -14,7 +14,6 @@ body {
 
 .container {
     border: 5px solid hsl(43, 74%, 49%);
-    background-color: #0000ffb3;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -26,6 +25,7 @@ body {
     padding: 50px;
     text-align: center;
     font-weight: 800;
+    background-color: #0000ffb3;
 }
 
 .first {
