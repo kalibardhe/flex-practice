@@ -6,11 +6,11 @@ body {
     background-color: hsla(0, 3%, 31%, 0.582);
 }
 
-nav {
+/*nav {
     height: 400px;
     width: 800px;
     margin: auto;
-}
+}*/
 
 .container {
     border: 5px solid hsl(43, 74%, 49%);
