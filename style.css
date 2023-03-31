@@ -29,10 +29,12 @@ nav {
 
 .first {
     border-bottom: 3px solid #000000;
+    flex: 1 1 200px;
 }
 
 .second {
     border-bottom: 3px solid #000000;
     background-color: #474747;
+    flex: 1 1 200px;
 }
 
