@@ -35,6 +35,6 @@ nav {
 .second {
     border-bottom: 3px solid #000000;
     background-color: #474747;
-    flex: 1 1 200px;
+    flex: 10 1 200px;
 }
 
