@@ -48,3 +48,7 @@ body {
 .first {
     align-self: flex-end;
 }
+
+.third {
+    align-self: flex-start;
+}
