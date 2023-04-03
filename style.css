@@ -23,6 +23,7 @@ body {
     flex-direction: row;
     justify-content: space-around;
     height: 100%;
+    align-items: center;
 }
 
 .container > div:nth-child(1),
